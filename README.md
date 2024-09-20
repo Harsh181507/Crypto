@@ -15,5 +15,5 @@ This Android app, built with Kotlin, displays real-time cryptocurrency prices fo
 - **CoinMarketCap API**: For fetching real-time cryptocurrency data.
 - **Android SDK**: Core framework and components.
 
-## Preview of the app
+## Preview of the App
 ![Screenshot 2024-09-20 015622](https://github.com/user-attachments/assets/327fbcb4-6f2a-4a13-8ac8-d38ee2486e86)
